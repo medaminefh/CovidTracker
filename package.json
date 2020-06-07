@@ -1,7 +1,7 @@
 {
   "name": "covid19-2",
   "version": "0.1.0",
-  "homepage": "http://medaminefh.github.io/covidTracker",
+  "homepage": "http://medaminefh.github.io/CovidTracker",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.11",
